@@ -1,5 +1,5 @@
 # README #
-Providing instruction of installing Spark on EC2 with Docker.
+Providing instruction of installing single node Spark on EC2 with Docker.
 
 ### Steps
 
