@@ -9,6 +9,3 @@ Providing instruction of installing Spark on EC2 with Docker.
 ### Version ###
 * Spark: 3.1.2
 * Hadoop: 3.2
-
-### Who do I talk to? ###
-* Lisha Yang (lishayang5@gmail.com)
